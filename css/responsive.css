@@ -1,0 +1,518 @@
+@media(max-width: 1400px){
+   .banner-content h1 {
+    font-size: 40px;
+   
+}
+
+.carousel-item {
+    min-height: 450px;
+}
+
+.banner img {
+    min-height: 500px;
+}
+
+}
+
+@media(max-width: 1200px){
+    .navbar-brand img {
+    max-width: 130px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    margin: 0 2px;
+    padding: 7px 10px !important;
+    
+}
+
+.banner-content h1 {
+    font-size: 35px;
+}
+.banner-text h4 {
+    font-size: 16px;  
+}
+.banner-text span {
+    font-size: 12px;
+    
+}
+
+.button {
+    font-size: 13px;
+    padding: 6px 20px !important;
+    
+}
+
+.feature-box img {
+    max-width: 50px;
+}
+.feature-box {
+    padding: 30px 8px;
+   
+}
+.feature-box h3 {
+    padding: 20px 0;
+}
+.feature-box p {
+    font-size: 13px;
+ 
+}
+.service-box img {
+    max-width: 65px;
+}
+.service-box p {
+    font-size: 14px;
+}
+
+.service-button a {
+    font-size: 13px;
+    padding: 9px 20px;
+    margin-bottom: 70px;
+}
+.service-box {
+    padding: 80px 0 60px ;
+}
+
+.iphone img {
+    max-width: 73%;
+}
+.steps-heading h2 {
+    font-size: 20px;
+}
+
+.steps span {
+    width: 60px;
+    height: 60px;
+}
+
+.steps h3 {
+    font-size: 16px;
+    margin-bottom: 15px;
+
+}
+
+.steps p {
+    font-size: 12px;
+}
+
+.feedback h2 {
+    font-size: 40px;
+    padding-bottom: 8px;
+    
+}
+.feedback span {
+    font-size: 14px;
+}
+
+.spider-icon img {
+    max-width: 40%;
+}
+.support-feature span {
+    width: 50px;
+    height: 50px;
+    line-height: 50px;
+}
+.left-in {
+    left: 90px;
+}
+.top {
+    top: 3%;
+}
+.right-in {
+    right: 110px;
+}
+.left-offset {
+    left: 15px;
+}
+.right-offset {
+    right: 0px;
+}
+.bottom {
+    bottom: 5%;
+}
+
+.sky{
+    left:130px;
+}
+.team {
+    padding: 60px 25px 40px;
+}
+.banner img {
+    min-height: 450px;
+}
+
+.support-feature strong {
+    font-size: 16px;
+   
+}
+    
+}
+
+@media(max-width: 991px){
+
+.service-heading p {
+    max-width: 50%;  
+}
+.service-box p {
+    font-size: 13px;
+}
+
+.steps-heading h2 {
+    font-size: 18px;
+}
+
+.steps span {
+    width: 45px;
+    height: 45px;
+}
+
+.steps h3 {
+    font-size: 14px;
+    margin-bottom: 12px;
+
+}
+
+.steps p {
+    font-size: 12px;
+}
+.steps {
+    padding-top: 30px;
+}
+.iphone img {
+    max-width: 100%;
+}
+
+.right-offset {
+    right: -50px;
+}
+.right-in {
+    right: 75px;
+}
+.left-in {
+    left: 60px;
+}
+.sky{
+    left:100px;
+}
+
+.left-offset {
+    left: -17px;
+}
+
+.feedback h2 {
+    font-size: 35px;
+    padding-bottom: 0px;
+}
+.feedback span {
+    font-size: 12px;
+}
+
+.blogs h3 {
+    font-size: 14px;
+   
+}
+
+.blogs p {
+    font-size: 12px;
+    padding: 5px 0 20px;
+}
+.blogs ul {
+    margin-bottom: 15px;
+
+}
+.blogs ul li a strong {
+    width: 45px;
+    height: 45px;
+    line-height: 45px;
+   
+}
+.blogs {
+    margin-bottom: 30px;
+}
+.carousel-item {
+    min-height: 490px;
+}
+
+.blog-section {
+    padding: 80px 0 60px;
+   
+}
+
+.widget p {
+   
+  margin: 30px 0;
+
+}
+
+.widget ul.address li {
+    line-height: 20px;
+    margin-top: 20px;
+}
+.widget {
+    margin-bottom: 50px;
+}
+.widget img {
+    max-width:40%;
+}
+.widget h3 {
+    font-size: 16px;
+  
+}
+.footer ul.list-unstyled li {
+    padding: 1px 0;
+   
+
+}
+.footer-menu ul li a {
+    font-size: 12px;
+
+}
+.justify-content-end {
+    justify-content: center !important;
+}
+.footer-text p {
+    margin-bottom: 10px;
+}
+
+.blog-section {
+    padding: 80px 0 0px;
+}
+.carousel-item {
+    min-height: 400px;
+}
+.service-heading h2 {
+    font-size: 20px;
+}
+.testimonial .service-heading h2 {
+    padding-bottom: 15px;
+}
+.testimonial .service-heading p {
+    max-width: 98%;
+    margin-bottom: 30px;
+}
+.testimonial {
+    padding: 50px 0 40px;
+}
+
+
+}
+
+
+@media(max-width: 767px){
+.banner-content h1 {
+    font-size: 30px;
+}
+    .justify-content-end {
+    justify-content: center !important;
+}
+.top-header p {
+    text-align: center;
+   
+}
+.feature-box {
+    margin-bottom: 25px;
+}
+.service-box{
+     padding: 80px 0 0;
+}
+
+.service-button a {
+   
+    margin:50px 0;
+}
+.steps-section {
+   
+    background-position: top;
+}
+.iphone img {
+    max-width: 60%;
+    margin-top: 60px;
+}
+.steps span {
+    width: 45px;
+    height: 45px;
+}
+.support-feature span i {
+    font-size: 17px;
+}
+.support-feature strong {
+    font-size: 13px;
+}
+
+.right-offset {
+    right: 0px;
+}
+.right-in {
+    right: 100px;
+}
+.left-in {
+    left: 100px;
+}
+.sky{
+    left:125px;
+}
+
+.left-offset {
+    left: 30px;
+}
+.service-heading p {
+    max-width: 68%;
+}
+.team {
+    padding: 60px 25px 0px;
+}
+.team-member{
+    padding-bottom: 30px;
+}
+
+.footer-text p {
+    margin-bottom: 10px;
+}
+
+.justify-content-end {
+    justify-content: center !important;
+}
+.widget img {
+    max-width: 60%;
+}
+.carousel-item {
+    min-height: 425px;
+}
+
+
+
+}
+
+
+@media(max-width: 577px){
+ .banner-content h1 {
+    font-size: 30px;
+}
+.feature-box {
+    width: 250px;
+    margin: 10px auto;
+    
+}
+
+.service-heading h2 {
+    font-size: 20px;
+  }
+  .service-heading p {
+    font-size: 13px;
+   }
+.service-box {
+    padding: 20px 0 0px;
+    width: 260px;
+    margin: 0px auto;
+}
+.steps-heading h2 {
+    text-align: center;
+   
+}
+.service-heading span {
+    margin: 0 auto 40px;
+}
+
+.steps span {
+    margin: 10px auto 30px;
+}
+.steps-heading h2::after {
+    left: 40%;
+     
+}
+
+.steps h3 {
+    text-align: center;
+}
+.steps p {
+    text-align: center;
+}
+.support-feature span {
+    width: 35px;
+    height: 35px;
+    line-height: 35px;
+}
+.right-offset {
+    right: 0px;
+}
+.right-in {
+    right: 80px;
+}
+.left-in {
+    left: 80px;
+}
+.sky{
+    left:110px;
+}
+
+.left-offset {
+    left: 30px;
+}
+.top {
+    top: 10%;
+}
+.bottom {
+    bottom: 10%;
+}
+.support-feature span i {
+    font-size: 15px;
+}
+.icon{
+    font-size: 20px;
+}
+
+.consultation {
+    padding: 50px 0 30px;
+
+}
+.service-heading p {
+    max-width: 55%;
+}
+.blog {
+    padding-top: 5px;
+}
+.blogs {
+    width: 300px;
+    margin: 15px auto;
+}
+.widget img {
+    max-width: 60%;
+}
+
+}
+
+@media(max-width: 379px){
+.steps-heading h2::after {
+    left: 36%;
+}
+.support-feature strong {
+    font-size: 12px;
+}
+.service-heading p {
+    max-width: 84%;
+}
+.widget ul li a {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+}
+.banner img {
+    min-height: 350px;
+} 
+
+.banner-content h1 {
+    font-size: 25px !important;
+}
+.banner-text {
+    padding:0px 0px !important;;
+}
+.banner-text h4 {
+    margin-top: 30px;
+}
+
+.banner-text span {
+    margin-bottom: 50px;
+    display: block;
+}
+
+
+}
